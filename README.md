@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository:**
    ```sh
-   git clone 
+   git clone https://github.com/sameer0288/flipkart-cart-clone.git
    cd E-Commerce
    ```
 
