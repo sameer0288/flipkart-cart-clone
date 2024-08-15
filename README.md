@@ -1,4 +1,4 @@
-# Flickart - MERN eCommerce Project (Flipkart Clone)
+# Flipkart - MERN eCommerce Project (Flipkart Clone)
 
 This is a Flipkart clone eCommerce project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It's designed to demonstrate the functionality and features of a modern eCommerce website.
 
